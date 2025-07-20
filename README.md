@@ -1,4 +1,4 @@
-# PIINs vs Numerical Methods: A Comparative Study for Solving PDEs
+# NeuroNumerics: A Comparative Study of PDE Solvers
 
 This project presents a comparative study between traditional high-order numerical schemes and Physics-Informed Implicit Neural Networks (PIINs) for solving partial differential equations (PDEs). We implement both approaches for elliptic, parabolic, and hyperbolic equations and evaluate them on accuracy, efficiency, and stability.
 
