@@ -111,5 +111,5 @@ Training is performed using optimizers like Adam or L-BFGS. The solution is appr
 
 ## Contributors
 
-- [Mamta Saini](https://github.com/your-profile)
-- [Manoj Solanki](
+- [Mamta Saini](https://github.com/mamtasaini003)
+- [Manoj Solanki](https://github.com/manojms3063)
